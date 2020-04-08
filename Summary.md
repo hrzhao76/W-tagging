@@ -71,7 +71,7 @@ This simple NN is overfitted.
 
 #### DNN
 
-Details: https://github.com/hrzhao76/W-tagging/blob/master/NN/NN-Paper-tf.ipynb 
+Details: https://github.com/hrzhao76/W-tagging/blob/master/NN/NN-Paper-tf.ipynb   
 My code: https://github.com/hrzhao76/W-tagging/blob/master/NN/NN-Paper-tf.py
 
 | Configuration       | Paper                                                        | Haoran                                                       |
