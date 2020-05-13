@@ -90,7 +90,7 @@ My code: https://github.com/hrzhao76/W-tagging/blob/master/NN/NN-Paper-tf.py
 | Epochs (Same)       | 50                                                           | 50                                                           |
 | Timing              |                                                              | ~ 6 hours                                                    |
 
-![model_paper](./NN/model_paper.png)
+![model_paper](./NN/model_summary.png)
 
 
 
@@ -113,7 +113,8 @@ my codes tested on 100k samples:
 Authors of the paper use 10 million samples to train the network and the AUC is **0.953** , However, mine is only 0.81.
 Using the almost same parameters from the paper I cannot archieve the same performance as indicated in paper. The problems may:
 
-1. training samples
-2. the number of filters of locally connected layers(not indicated in paper)
+1. statistics
+2. normaliza
+3. the number of filters of locally connected layers(not indicated in paper)
 
 
