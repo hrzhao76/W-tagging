@@ -114,7 +114,7 @@ Authors of the paper use 10 million samples to train the network and the AUC is 
 Using the almost same parameters from the paper I cannot archieve the same performance as indicated in paper. The problems may:
 
 1. statistics
-2. normaliza
+2. normalization of images?
 3. the number of filters of locally connected layers(not indicated in paper)
 
 
